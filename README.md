@@ -45,10 +45,10 @@ Perform Clustering(Hierarchical, Kmeans & DBSCAN) for the crime data and identif
 
 Data Description:
 
-Murder:- Murder rates in different places of United States 
+1. Murder:- Murder rates in different places of United States 
 
-Assualt:- Assualt rate in different places of United States 
+2. Assualt:- Assualt rate in different places of United States 
 
-UrbanPopulation - urban population in different places of United States 
+3. UrbanPopulation - urban population in different places of United States 
 
-Rape - Rape rate in different places of United States
+4. Rape - Rape rate in different places of United States
